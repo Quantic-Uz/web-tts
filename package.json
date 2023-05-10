@@ -1,0 +1,22 @@
+{
+  "name": "tts.uz",
+  "version": "1.1.0",
+  "description": "Uzbek languages, TTS.uz, Lola, Text to Speech",
+  "repository": {
+    "type": "git",
+    "url": "https://git.quantic.uz/jamshid/tts.uz-package"
+  },
+  "keywords": [
+    "plugin",
+    "uzbek text to speech",
+    "tts.uz",
+    "vue 3",
+    "react"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamshid Tulaganov",
+  "license": "ISC"
+}
